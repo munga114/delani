@@ -1,6 +1,8 @@
 .Home{
-    background:url("/IP3-master/assets/backgrounds/h_img.jpg");
+    background-image:url("../IP3-master/assets/backgrounds/h_img.jpg");
+    background-size:cover;
     padding: 5%;
+    height: 100%;
     text-align: center;
     font-family:'Fira Sans', sans-serif;
 }
@@ -19,7 +21,7 @@
     color: white;
 }
 #fourth{
-    padding-top: 32%;
+    padding-top: 40%;
 }
 .About{
     text-align:center;
@@ -27,8 +29,23 @@
     padding: 2%;
 }
 .Services{
-    background:url("/IP3-master/assets/backgrounds/s_image.jpg");
-    padding: 5%;
+    background-image:url("../IP3-master/assets/backgrounds/s_image.jpg");
+    background-size:cover;
+    height: 100%;
+    padding: 10%;
     text-align: center;
     font-family:'Fira Sans', sans-serif;
+}
+.Portfolio img{
+    display:flex;
+}
+.Activities{
+    text-align: center;
+    padding: 5%;
+}
+.headings{
+    padding: 2%;
+}
+#design{
+display:none;
 }
