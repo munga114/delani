@@ -1,3 +1,5 @@
 .Home{
-    background:url("IP3-master/assets/backgrounds/h_img.jpg");
+    background:url("/IP3-master/assets/backgrounds/h_img.jpg");
+    padding: 15%;
+    text-align: center;
 }
