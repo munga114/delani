@@ -1,7 +1,8 @@
 .Home{
     background:url("/IP3-master/assets/backgrounds/h_img.jpg");
-    padding: 15%;
+    padding: 5%;
     text-align: center;
+    font-family:'Fira Sans', sans-serif;;
 }
 .Home p{
     margin-top:5% ;
@@ -18,5 +19,9 @@
     color: white;
 }
 #fourth{
-    padding: 15%;
+    padding-top: 33%;
+}
+.About{
+    text-align:center;
+    font-family:'Fira Sans', sans-serif;
 }
